@@ -1,0 +1,3 @@
+This is a text file for cypress automation.
+Content here with some random 2 numbers.
+And the end.
